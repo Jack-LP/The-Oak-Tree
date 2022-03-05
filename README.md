@@ -1,2 +1,9 @@
-# The-Oak-Tree
- Example site, using CSS animations and JS scroll reveal
+# The Oak Tree
+
+---
+
+<p align="center">
+ <img src="https://i.imgur.com/qx9aKaK.gif" />
+</p>
+
+---
